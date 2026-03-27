@@ -7,7 +7,7 @@ def select(arg):
     label.config(text=selection)
 
 sandwich_var = StringVar()
-sandwich_var.set("ham")
+sandwich_var.set("eem")
 juice_var = StringVar()
 juice_var.set("orange")
 
